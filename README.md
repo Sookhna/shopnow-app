@@ -1,3 +1,6 @@
+Nom : SY
+Prénom : Sokhna
+Groupe : Alaa - Sokhna - Fulbert
 # ShopNow JS — Application sous test Selenium
 
 Mini application e-commerce en **JavaScript / Node.js / Express**, destinée au TP INF243.
